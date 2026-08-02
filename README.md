@@ -1,3 +1,3 @@
-# ai-powered-ecommerce-recommendation-system
+# AI-powered-ecommerce-recommendation-system
 
 AI Recommendation System Internship Project
